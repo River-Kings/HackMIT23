@@ -1,0 +1,10 @@
+id,user_id,time,platform,is_beginner,level,country_code,game_server,fps,position_x,position_y,position_z,session_id,oneSecondAggregatedEventCounts
+8816305185,11,2023-09-14T00:15:50.000Z,android,True,Dawn,JP,NrsboZak,21.91,66.86,24.39,398.46,bf1469bf-2e68-4fe8-a646-5325a2f111db,{'ping': 1}
+8816303792,11,2023-09-14T00:15:49.000Z,android,True,Dawn,JP,NrsboZak,21.88,70.89,21.85,407.46,bf1469bf-2e68-4fe8-a646-5325a2f111db,{'ping': 1}
+8816298968,11,2023-09-14T00:15:48.000Z,android,True,Dawn,JP,NrsboZak,21.78,76.51,19.04,415.26,bf1469bf-2e68-4fe8-a646-5325a2f111db,{'ping': 1}
+8816296790,11,2023-09-14T00:15:47.000Z,android,True,Dawn,JP,NrsboZak,19.11,82.02,15.85,423.37,bf1469bf-2e68-4fe8-a646-5325a2f111db,{'ping': 1}
+8816293587,11,2023-09-14T00:15:46.000Z,android,True,Dawn,JP,NrsboZak,21.58,82.92,12.44,433.21,bf1469bf-2e68-4fe8-a646-5325a2f111db,{'ping': 1}
+8816287528,11,2023-09-14T00:15:45.000Z,android,True,Dawn,JP,NrsboZak,21.51,76.03,8.43,439.61,bf1469bf-2e68-4fe8-a646-5325a2f111db,{'ping': 1}
+8816278240,11,2023-09-14T00:15:42.000Z,android,True,Dawn,JP,NrsboZak,21.53,68.4,0.88,456.88,bf1469bf-2e68-4fe8-a646-5325a2f111db,{'social_feed_impression': 1}
+8816272859,11,2023-09-14T00:15:40.000Z,android,True,Dawn,JP,NrsboZak,21.61,68.4,0.88,456.88,bf1469bf-2e68-4fe8-a646-5325a2f111db,{'social_feed_impression': 1}
+8816261610,11,2023-09-14T00:15:37.000Z,android,True,Dawn,JP,NrsboZak,3.75,67.98,1.02,456.55,bf1469bf-2e68-4fe8-a646-5325a2f111db,"{'ping': 2, 'player_interaction': 3, 'hand_held': 1, 'loaded_Dawn': 1, 'level_loaded': 1}"

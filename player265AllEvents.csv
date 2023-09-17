@@ -1,0 +1,146 @@
+id,user_id,time,platform,is_beginner,level,country_code,game_server,fps,position_x,position_y,position_z,session_id,oneSecondAggregatedEventCounts
+8816296772,265,2023-09-14T00:15:47.000Z,android,True,Dawn,MX,NCok0ban,27.16,480.23,210.07,-1034.87,7d775bd9-b530-4b16-bcc0-7b21dea82948,{'level_completed': 1}
+8816278247,265,2023-09-14T00:15:42.000Z,android,True,Dawn,MX,NCok0ban,24.4,471.14,213.64,-1014.21,7d775bd9-b530-4b16-bcc0-7b21dea82948,{'ping': 1}
+8816275850,265,2023-09-14T00:15:41.000Z,android,True,Dawn,MX,NCok0ban,23.79,468.21,213.06,-1008.9,7d775bd9-b530-4b16-bcc0-7b21dea82948,"{'ping': 1, 'player_lift': 1, 'was_charged_by_player': 1}"
+8816267277,265,2023-09-14T00:15:39.000Z,android,True,Dawn,MX,NCok0ban,23.39,461.34,213.41,-996.73,7d775bd9-b530-4b16-bcc0-7b21dea82948,"{'ping': 1, 'was_charged_by_player': 1}"
+8816262494,265,2023-09-14T00:15:38.000Z,android,True,Dawn,MX,NCok0ban,22.79,457.12,212.95,-987.67,7d775bd9-b530-4b16-bcc0-7b21dea82948,{'ping': 1}
+8816261617,265,2023-09-14T00:15:37.000Z,android,True,Dawn,MX,NCok0ban,23.02,453.21,210.73,-978.52,7d775bd9-b530-4b16-bcc0-7b21dea82948,"{'was_charged_by_player': 1, 'player_lift': 1, 'ping': 1}"
+8816252644,265,2023-09-14T00:15:35.000Z,android,True,Dawn,MX,NCok0ban,22.89,446.22,204.18,-962.24,7d775bd9-b530-4b16-bcc0-7b21dea82948,"{'was_charged_by_player': 1, 'ping': 1, 'player_lift': 1}"
+8816247156,265,2023-09-14T00:15:32.000Z,android,True,Dawn,MX,NCok0ban,23.52,436.89,198.34,-948.35,7d775bd9-b530-4b16-bcc0-7b21dea82948,"{'was_charged_by_player': 1, 'ping': 1}"
+8816238983,265,2023-09-14T00:15:30.000Z,android,True,Dawn,MX,NCok0ban,25.23,427.83,197.55,-937.95,7d775bd9-b530-4b16-bcc0-7b21dea82948,"{'ping': 2, 'was_charged_by_player': 1}"
+8816237014,265,2023-09-14T00:15:29.000Z,android,True,Dawn,MX,NCok0ban,24.98,421.21,215.46,-929.83,7d775bd9-b530-4b16-bcc0-7b21dea82948,{'ping': 1}
+8816231413,265,2023-09-14T00:15:28.000Z,android,True,Dawn,MX,NCok0ban,23.84,419.27,221.18,-927.43,7d775bd9-b530-4b16-bcc0-7b21dea82948,"{'was_charged_by_player': 1, 'ping': 1}"
+8816227643,265,2023-09-14T00:15:27.000Z,android,True,Dawn,MX,NCok0ban,22.43,412.67,229.96,-919.0,7d775bd9-b530-4b16-bcc0-7b21dea82948,{'ping': 1}
+8816224716,265,2023-09-14T00:15:26.000Z,android,True,Dawn,MX,NCok0ban,23.2,409.0,231.12,-914.23,7d775bd9-b530-4b16-bcc0-7b21dea82948,"{'ping': 1, 'was_charged_by_player': 1}"
+8816219240,265,2023-09-14T00:15:24.000Z,android,True,Dawn,MX,NCok0ban,23.72,394.49,228.83,-895.22,7d775bd9-b530-4b16-bcc0-7b21dea82948,"{'player_lift': 1, 'ping': 1, 'was_charged_by_player': 1}"
+8816213537,265,2023-09-14T00:15:23.000Z,android,True,Dawn,MX,NCok0ban,22.83,387.9,227.36,-886.54,7d775bd9-b530-4b16-bcc0-7b21dea82948,"{'player_lift': 1, 'ping': 1}"
+8816212632,265,2023-09-14T00:15:22.000Z,android,True,Dawn,MX,NCok0ban,22.49,381.81,227.22,-878.4,7d775bd9-b530-4b16-bcc0-7b21dea82948,"{'player_lift': 1, 'ping': 2, 'was_charged_by_player': 1}"
+8816205562,265,2023-09-14T00:15:21.000Z,android,True,Dawn,MX,NCok0ban,25.91,369.4,227.35,-861.84,7d775bd9-b530-4b16-bcc0-7b21dea82948,"{'player_lift': 1, 'ping': 1}"
+8816202424,265,2023-09-14T00:15:20.000Z,android,True,Dawn,MX,NCok0ban,22.34,363.13,225.0,-853.73,7d775bd9-b530-4b16-bcc0-7b21dea82948,"{'ping': 1, 'player_lift': 1, 'was_charged_by_player': 1}"
+8816200840,265,2023-09-14T00:15:19.000Z,android,True,Dawn,MX,NCok0ban,23.86,356.99,221.89,-845.85,7d775bd9-b530-4b16-bcc0-7b21dea82948,{'ping': 2}
+8816196057,265,2023-09-14T00:15:18.000Z,android,True,Dawn,MX,NCok0ban,24.91,350.43,219.2,-837.38,7d775bd9-b530-4b16-bcc0-7b21dea82948,"{'ping': 1, 'player_lift': 1, 'was_charged_by_player': 1}"
+8816191695,265,2023-09-14T00:15:17.000Z,android,True,Dawn,MX,NCok0ban,23.26,345.12,215.96,-819.21,7d775bd9-b530-4b16-bcc0-7b21dea82948,"{'player_lift': 1, 'ping': 1}"
+8816189175,265,2023-09-14T00:15:16.000Z,android,True,Dawn,MX,NCok0ban,19.79,345.88,212.01,-809.58,7d775bd9-b530-4b16-bcc0-7b21dea82948,"{'player_lift': 1, 'ping': 2, 'was_charged_by_player': 1}"
+8816184772,265,2023-09-14T00:15:15.000Z,android,True,Dawn,MX,NCok0ban,17.34,346.69,198.27,-794.1,7d775bd9-b530-4b16-bcc0-7b21dea82948,{'ping': 1}
+8816181117,265,2023-09-14T00:15:14.000Z,android,True,Dawn,MX,NCok0ban,27.75,344.95,198.65,-790.38,7d775bd9-b530-4b16-bcc0-7b21dea82948,{'was_charged_by_player': 1}
+8816180396,265,2023-09-14T00:15:13.000Z,android,True,Dawn,MX,NCok0ban,27.73,342.19,199.69,-785.01,7d775bd9-b530-4b16-bcc0-7b21dea82948,{'ping': 1}
+8816169877,265,2023-09-14T00:15:10.000Z,android,True,Dawn,MX,NCok0ban,24.65,328.57,197.0,-758.79,7d775bd9-b530-4b16-bcc0-7b21dea82948,"{'ping': 1, 'was_charged_by_player': 1}"
+8816166215,265,2023-09-14T00:15:09.000Z,android,True,Dawn,MX,NCok0ban,23.95,326.11,194.94,-754.01,7d775bd9-b530-4b16-bcc0-7b21dea82948,"{'ping': 1, 'player_lift': 1}"
+8816158035,265,2023-09-14T00:15:07.000Z,android,True,Dawn,MX,NCok0ban,25.72,317.35,190.06,-737.38,7d775bd9-b530-4b16-bcc0-7b21dea82948,"{'player_lift': 1, 'ping': 1}"
+8816155901,265,2023-09-14T00:15:06.000Z,android,True,Dawn,MX,NCok0ban,27.27,312.39,192.41,-728.21,7d775bd9-b530-4b16-bcc0-7b21dea82948,{'was_charged_by_player': 1}
+8816150921,265,2023-09-14T00:15:05.000Z,android,True,Dawn,MX,NCok0ban,26.12,309.87,193.47,-723.58,7d775bd9-b530-4b16-bcc0-7b21dea82948,{'ping': 1}
+8816149584,265,2023-09-14T00:15:04.000Z,android,True,Dawn,MX,NCok0ban,28.1,305.61,194.74,-715.79,7d775bd9-b530-4b16-bcc0-7b21dea82948,"{'ping': 1, 'was_charged_by_player': 1}"
+8816146221,265,2023-09-14T00:15:03.000Z,android,True,Dawn,MX,NCok0ban,27.16,300.23,194.71,-705.94,7d775bd9-b530-4b16-bcc0-7b21dea82948,{'ping': 1}
+8816141058,265,2023-09-14T00:15:02.000Z,android,True,Dawn,MX,NCok0ban,27.96,297.05,194.15,-700.1,7d775bd9-b530-4b16-bcc0-7b21dea82948,"{'ping': 1, 'was_charged_by_player': 1}"
+8816132854,265,2023-09-14T00:15:00.000Z,android,True,Dawn,MX,NCok0ban,28.71,285.84,191.21,-678.9,7d775bd9-b530-4b16-bcc0-7b21dea82948,"{'was_charged_by_player': 1, 'ping': 2}"
+8816131482,265,2023-09-14T00:14:59.000Z,android,True,Dawn,MX,NCok0ban,27.74,278.02,189.25,-659.95,7d775bd9-b530-4b16-bcc0-7b21dea82948,{'ping': 3}
+8816127524,265,2023-09-14T00:14:58.000Z,android,True,Dawn,MX,NCok0ban,27.28,266.77,186.59,-640.4,7d775bd9-b530-4b16-bcc0-7b21dea82948,"{'ping': 2, 'was_charged_by_player': 1, 'player_lift': 2}"
+8816124970,265,2023-09-14T00:14:57.000Z,android,True,Dawn,MX,NCok0ban,25.0,251.49,178.72,-615.95,7d775bd9-b530-4b16-bcc0-7b21dea82948,{'ping': 2}
+8816119936,265,2023-09-14T00:14:56.000Z,android,True,Dawn,MX,NCok0ban,25.29,241.5,173.4,-600.67,7d775bd9-b530-4b16-bcc0-7b21dea82948,"{'was_charged_by_player': 1, 'ping': 2, 'player_lift': 1}"
+8816117939,265,2023-09-14T00:14:55.000Z,android,True,Dawn,MX,NCok0ban,24.74,229.79,165.88,-582.69,7d775bd9-b530-4b16-bcc0-7b21dea82948,"{'ping': 3, 'player_lift': 1}"
+8816113823,265,2023-09-14T00:14:54.000Z,android,True,Dawn,MX,NCok0ban,25.95,218.77,156.83,-565.03,7d775bd9-b530-4b16-bcc0-7b21dea82948,"{'was_charged_by_player': 1, 'ping': 2, 'player_lift': 1}"
+8816106884,265,2023-09-14T00:14:53.000Z,android,True,Dawn,MX,NCok0ban,25.72,209.54,146.2,-548.1,7d775bd9-b530-4b16-bcc0-7b21dea82948,"{'ping': 2, 'player_lift': 2}"
+8816104820,265,2023-09-14T00:14:52.000Z,android,True,Dawn,MX,NCok0ban,25.86,200.11,133.38,-525.35,7d775bd9-b530-4b16-bcc0-7b21dea82948,"{'was_charged_by_player': 1, 'ping': 2}"
+8816102280,265,2023-09-14T00:14:51.000Z,android,True,Dawn,MX,NCok0ban,25.58,195.83,127.82,-514.08,7d775bd9-b530-4b16-bcc0-7b21dea82948,"{'ping': 2, 'player_lift': 1}"
+8816101064,265,2023-09-14T00:14:50.000Z,android,True,Dawn,MX,NCok0ban,25.24,188.75,119.4,-497.77,7d775bd9-b530-4b16-bcc0-7b21dea82948,"{'was_charged_by_player': 1, 'ping': 1, 'player_lift': 1}"
+8816096547,265,2023-09-14T00:14:49.000Z,android,True,Dawn,MX,NCok0ban,25.57,181.97,110.57,-483.17,7d775bd9-b530-4b16-bcc0-7b21dea82948,"{'ping': 2, 'player_lift': 1}"
+8816084112,265,2023-09-14T00:14:46.000Z,android,True,Dawn,MX,NCok0ban,25.04,166.62,102.38,-444.17,7d775bd9-b530-4b16-bcc0-7b21dea82948,"{'was_charged_by_player': 1, 'ping': 1, 'player_lift': 1}"
+8816077327,265,2023-09-14T00:14:44.000Z,android,True,Dawn,MX,NCok0ban,24.92,165.69,102.73,-422.07,7d775bd9-b530-4b16-bcc0-7b21dea82948,"{'ping': 1, 'player_lift': 1}"
+8816072930,265,2023-09-14T00:14:43.000Z,android,True,Dawn,MX,NCok0ban,22.0,166.95,102.48,-411.08,7d775bd9-b530-4b16-bcc0-7b21dea82948,"{'ping': 1, 'was_charged_by_player': 1}"
+8816069302,265,2023-09-14T00:14:42.000Z,android,True,Dawn,MX,NCok0ban,25.65,167.11,103.13,-394.96,7d775bd9-b530-4b16-bcc0-7b21dea82948,{'ping': 1}
+8816064295,265,2023-09-14T00:14:40.000Z,android,True,Dawn,MX,NCok0ban,27.21,166.48,103.72,-384.69,7d775bd9-b530-4b16-bcc0-7b21dea82948,{'ping': 1}
+8816061876,265,2023-09-14T00:14:39.000Z,android,True,Dawn,MX,NCok0ban,27.48,165.45,104.45,-374.74,7d775bd9-b530-4b16-bcc0-7b21dea82948,"{'ping': 1, 'was_charged_by_player': 1}"
+8816056983,265,2023-09-14T00:14:38.000Z,android,True,Dawn,MX,NCok0ban,25.22,164.36,104.98,-364.64,7d775bd9-b530-4b16-bcc0-7b21dea82948,{'ping': 1}
+8816054962,265,2023-09-14T00:14:37.000Z,android,True,Dawn,MX,NCok0ban,25.25,163.28,104.44,-354.46,7d775bd9-b530-4b16-bcc0-7b21dea82948,"{'ping': 1, 'player_lift': 1}"
+8816053773,265,2023-09-14T00:14:36.000Z,android,True,Dawn,MX,NCok0ban,25.7,162.22,104.45,-344.33,7d775bd9-b530-4b16-bcc0-7b21dea82948,{'ping': 1}
+8816047018,265,2023-09-14T00:14:35.000Z,android,True,Dawn,MX,NCok0ban,22.58,161.3,103.86,-334.3,7d775bd9-b530-4b16-bcc0-7b21dea82948,{'ping': 1}
+8816037565,265,2023-09-14T00:14:32.000Z,android,True,Dawn,MX,NCok0ban,12.55,158.07,105.53,-314.36,7d775bd9-b530-4b16-bcc0-7b21dea82948,{'ping': 1}
+8816030771,265,2023-09-14T00:14:30.000Z,android,True,Dawn,MX,NCok0ban,19.93,156.23,104.45,-304.36,7d775bd9-b530-4b16-bcc0-7b21dea82948,{'ping': 1}
+8816002224,265,2023-09-14T00:14:21.000Z,android,True,Dawn,MX,NCok0ban,8.84,154.32,103.62,-293.71,7d775bd9-b530-4b16-bcc0-7b21dea82948,{'milestone_made_5_friends': 1}
+8815939436,265,2023-09-14T00:14:04.000Z,android,True,Dawn,MX,NCok0ban,25.63,153.73,103.59,-294.69,7d775bd9-b530-4b16-bcc0-7b21dea82948,{'ping': 1}
+8815884069,265,2023-09-14T00:13:48.000Z,android,True,Dawn,MX,NCok0ban,22.01,153.47,103.53,-294.75,7d775bd9-b530-4b16-bcc0-7b21dea82948,{'player_interaction': 1}
+8815879625,265,2023-09-14T00:13:46.000Z,android,True,Dawn,MX,NCok0ban,22.92,153.31,103.53,-294.86,7d775bd9-b530-4b16-bcc0-7b21dea82948,{'open_ability_menu': 1}
+8815835879,265,2023-09-14T00:13:34.000Z,android,True,Dawn,MX,NCok0ban,25.59,155.94,104.37,-293.74,7d775bd9-b530-4b16-bcc0-7b21dea82948,{'ping': 1}
+8815808549,265,2023-09-14T00:13:26.000Z,android,True,Dawn,MX,NCok0ban,23.89,117.84,1.17,-1734.0,7d775bd9-b530-4b16-bcc0-7b21dea82948,{'ping': 1}
+8815777363,265,2023-09-14T00:13:16.000Z,android,True,Dawn,MX,NCok0ban,20.77,156.08,103.56,-294.41,7d775bd9-b530-4b16-bcc0-7b21dea82948,{'hand_released': 1}
+8815773596,265,2023-09-14T00:13:15.000Z,android,True,Dawn,MX,NCok0ban,20.08,156.11,103.17,-290.18,7d775bd9-b530-4b16-bcc0-7b21dea82948,{'ping': 1}
+8815691927,265,2023-09-14T00:12:51.000Z,android,True,Dawn,MX,NCok0ban,20.8,154.61,103.25,-271.78,7d775bd9-b530-4b16-bcc0-7b21dea82948,{'was_charged_by_player': 2}
+8815683991,265,2023-09-14T00:12:49.000Z,android,True,Dawn,MX,NCok0ban,21.24,152.51,103.26,-272.2,7d775bd9-b530-4b16-bcc0-7b21dea82948,{'was_charged_by_player': 2}
+8815677624,265,2023-09-14T00:12:47.000Z,android,True,Dawn,MX,NCok0ban,21.62,151.42,103.25,-272.41,7d775bd9-b530-4b16-bcc0-7b21dea82948,{'was_charged_by_player': 2}
+8815665761,265,2023-09-14T00:12:43.000Z,android,True,Dawn,MX,NCok0ban,20.39,152.3,103.53,-272.06,7d775bd9-b530-4b16-bcc0-7b21dea82948,"{'ping': 1, 'was_charged_by_player': 1}"
+8815662497,265,2023-09-14T00:12:42.000Z,android,True,Dawn,MX,NCok0ban,21.21,150.48,106.22,-260.85,7d775bd9-b530-4b16-bcc0-7b21dea82948,{'ping': 1}
+8815658946,265,2023-09-14T00:12:41.000Z,android,True,Dawn,MX,NCok0ban,21.21,150.03,106.13,-257.99,7d775bd9-b530-4b16-bcc0-7b21dea82948,"{'ping': 1, 'was_charged_by_player': 1}"
+8815652805,265,2023-09-14T00:12:40.000Z,android,True,Dawn,MX,NCok0ban,21.12,147.64,105.48,-240.62,7d775bd9-b530-4b16-bcc0-7b21dea82948,{'ping': 1}
+8815651357,265,2023-09-14T00:12:39.000Z,android,True,Dawn,MX,NCok0ban,21.12,147.59,105.21,-239.35,7d775bd9-b530-4b16-bcc0-7b21dea82948,"{'was_charged_by_player': 1, 'player_lift': 1}"
+8815647318,265,2023-09-14T00:12:38.000Z,android,True,Dawn,MX,NCok0ban,21.4,147.65,104.81,-230.56,7d775bd9-b530-4b16-bcc0-7b21dea82948,"{'player_lift': 1, 'ping': 1}"
+8815643979,265,2023-09-14T00:12:37.000Z,android,True,Dawn,MX,NCok0ban,22.22,147.12,102.31,-224.47,7d775bd9-b530-4b16-bcc0-7b21dea82948,"{'ping': 1, 'was_charged_by_player': 1}"
+8815640801,265,2023-09-14T00:12:36.000Z,android,True,Dawn,MX,NCok0ban,21.34,146.91,100.23,-218.16,7d775bd9-b530-4b16-bcc0-7b21dea82948,{'player_lift': 1}
+8815633404,265,2023-09-14T00:12:34.000Z,android,True,Dawn,MX,NCok0ban,22.03,146.45,96.95,-208.42,7d775bd9-b530-4b16-bcc0-7b21dea82948,{'player_lift': 1}
+8815627353,265,2023-09-14T00:12:33.000Z,android,True,Dawn,MX,NCok0ban,22.32,145.91,96.31,-204.72,7d775bd9-b530-4b16-bcc0-7b21dea82948,"{'ping': 1, 'was_charged_by_player': 1, 'player_lift': 1}"
+8815625077,265,2023-09-14T00:12:32.000Z,android,True,Dawn,MX,NCok0ban,20.48,145.69,94.24,-196.58,7d775bd9-b530-4b16-bcc0-7b21dea82948,{'player_lift': 1}
+8815621797,265,2023-09-14T00:12:31.000Z,android,True,Dawn,MX,NCok0ban,21.2,145.2,92.07,-192.16,7d775bd9-b530-4b16-bcc0-7b21dea82948,{'ping': 1}
+8815596060,265,2023-09-14T00:12:23.000Z,android,True,Dawn,MX,NCok0ban,23.65,141.18,90.07,-183.08,7d775bd9-b530-4b16-bcc0-7b21dea82948,{'ping': 1}
+8815513777,265,2023-09-14T00:11:57.000Z,android,True,Dawn,MX,NCok0ban,21.37,154.49,85.37,-246.94,7d775bd9-b530-4b16-bcc0-7b21dea82948,{'ping': 1}
+8815393885,265,2023-09-14T00:11:21.000Z,android,True,Dawn,MX,NCok0ban,23.66,143.9,86.15,-244.32,7d775bd9-b530-4b16-bcc0-7b21dea82948,{'ping': 1}
+8815388707,265,2023-09-14T00:11:19.000Z,android,True,Dawn,MX,NCok0ban,23.53,140.96,89.95,-253.19,7d775bd9-b530-4b16-bcc0-7b21dea82948,{'ping': 1}
+8815345693,265,2023-09-14T00:11:06.000Z,android,True,Dawn,MX,NCok0ban,23.77,131.29,92.01,-254.76,7d775bd9-b530-4b16-bcc0-7b21dea82948,{'ping': 1}
+8815324748,265,2023-09-14T00:11:00.000Z,android,True,Dawn,MX,NCok0ban,23.34,141.07,90.04,-256.44,7d775bd9-b530-4b16-bcc0-7b21dea82948,{'ping': 1}
+8815304647,265,2023-09-14T00:10:54.000Z,android,True,Dawn,MX,NCok0ban,23.6,140.9,90.04,-256.41,7d775bd9-b530-4b16-bcc0-7b21dea82948,{'open_ability_menu': 1}
+8815292745,265,2023-09-14T00:10:51.000Z,android,True,Dawn,MX,NCok0ban,22.39,138.69,90.78,-256.93,7d775bd9-b530-4b16-bcc0-7b21dea82948,{'open_ability_menu': 1}
+8815277972,265,2023-09-14T00:10:47.000Z,android,True,Dawn,MX,NCok0ban,21.84,131.21,91.11,-255.08,7d775bd9-b530-4b16-bcc0-7b21dea82948,{'ping': 1}
+8815266827,265,2023-09-14T00:10:44.000Z,android,True,Dawn,MX,NCok0ban,23.14,129.9,95.23,-246.05,7d775bd9-b530-4b16-bcc0-7b21dea82948,{'ping': 1}
+8815256195,265,2023-09-14T00:10:41.000Z,android,True,Dawn,MX,NCok0ban,18.75,128.74,97.28,-243.55,7d775bd9-b530-4b16-bcc0-7b21dea82948,{'constellation_gate_unlock': 1}
+8815252569,265,2023-09-14T00:10:40.000Z,android,True,Dawn,MX,NCok0ban,19.28,128.72,98.59,-236.44,7d775bd9-b530-4b16-bcc0-7b21dea82948,{'ping': 1}
+8815239291,265,2023-09-14T00:10:36.000Z,android,True,Dawn,MX,NCok0ban,21.83,138.93,100.52,-221.8,7d775bd9-b530-4b16-bcc0-7b21dea82948,{'ping': 1}
+8815208046,265,2023-09-14T00:10:27.000Z,android,True,Dawn,MX,NCok0ban,21.2,150.72,102.87,-230.7,7d775bd9-b530-4b16-bcc0-7b21dea82948,{'ping': 1}
+8815203953,265,2023-09-14T00:10:25.000Z,android,True,Dawn,MX,NCok0ban,21.51,148.94,103.09,-237.73,7d775bd9-b530-4b16-bcc0-7b21dea82948,{'player_interaction': 3}
+8815168625,265,2023-09-14T00:10:15.000Z,android,True,Dawn,MX,NCok0ban,22.2,150.63,102.4,-250.6,7d775bd9-b530-4b16-bcc0-7b21dea82948,{'ping': 1}
+8815159574,265,2023-09-14T00:10:13.000Z,android,True,Dawn,MX,NCok0ban,18.73,147.13,104.39,-241.33,7d775bd9-b530-4b16-bcc0-7b21dea82948,"{'ping': 1, 'was_charged_by_player': 1}"
+8815155745,265,2023-09-14T00:10:12.000Z,android,True,Dawn,MX,NCok0ban,19.41,147.08,103.25,-231.3,7d775bd9-b530-4b16-bcc0-7b21dea82948,"{'ping': 1, 'player_lift': 1}"
+8815152243,265,2023-09-14T00:10:11.000Z,android,True,Dawn,MX,NCok0ban,22.08,146.9,102.9,-224.76,7d775bd9-b530-4b16-bcc0-7b21dea82948,"{'ping': 1, 'was_charged_by_player': 1, 'player_lift': 1}"
+8815148226,265,2023-09-14T00:10:10.000Z,android,True,Dawn,MX,NCok0ban,20.6,145.95,101.24,-220.35,7d775bd9-b530-4b16-bcc0-7b21dea82948,{'player_lift': 1}
+8815145686,265,2023-09-14T00:10:09.000Z,android,True,Dawn,MX,NCok0ban,22.91,144.92,99.85,-215.61,7d775bd9-b530-4b16-bcc0-7b21dea82948,"{'was_charged_by_player': 1, 'player_lift': 1}"
+8815136420,265,2023-09-14T00:10:05.000Z,android,True,Dawn,MX,NCok0ban,23.15,141.14,95.86,-201.18,7d775bd9-b530-4b16-bcc0-7b21dea82948,{'player_lift': 1}
+8815131115,265,2023-09-14T00:10:04.000Z,android,True,Dawn,MX,NCok0ban,20.91,139.5,94.08,-195.19,7d775bd9-b530-4b16-bcc0-7b21dea82948,"{'ping': 1, 'player_lift': 1}"
+8815122718,265,2023-09-14T00:10:01.000Z,android,True,Dawn,MX,NCok0ban,20.87,137.2,90.09,-184.09,7d775bd9-b530-4b16-bcc0-7b21dea82948,{'ping': 1}
+8815085251,265,2023-09-14T00:09:50.000Z,android,True,Dawn,MX,NCok0ban,19.21,137.53,89.6,-181.75,7d775bd9-b530-4b16-bcc0-7b21dea82948,{'open_ability_menu': 1}
+8815020253,265,2023-09-14T00:09:32.000Z,android,True,Dawn,MX,NCok0ban,21.9,137.53,89.6,-181.75,7d775bd9-b530-4b16-bcc0-7b21dea82948,{'ping': 1}
+8814940965,265,2023-09-14T00:09:09.000Z,android,True,Dawn,MX,NCok0ban,19.32,138.43,89.66,-181.91,7d775bd9-b530-4b16-bcc0-7b21dea82948,{'hand_released': 1}
+8814936772,265,2023-09-14T00:09:08.000Z,android,True,Dawn,MX,NCok0ban,17.31,138.43,89.66,-181.91,7d775bd9-b530-4b16-bcc0-7b21dea82948,{'open_ability_menu': 1}
+8814916731,265,2023-09-14T00:09:02.000Z,android,True,Dawn,MX,NCok0ban,20.79,141.18,90.09,-183.07,7d775bd9-b530-4b16-bcc0-7b21dea82948,"{'ping': 1, 'got_wax': 1, 'milestone_prestiges': 1}"
+8814905274,265,2023-09-14T00:08:58.000Z,android,True,Dawn,MX,NCok0ban,13.66,157.45,85.26,-246.84,7d775bd9-b530-4b16-bcc0-7b21dea82948,{'ping': 1}
+8814896744,265,2023-09-14T00:08:56.000Z,android,True,Dawn,MX,NCok0ban,11.81,146.74,86.1,-236.98,7d775bd9-b530-4b16-bcc0-7b21dea82948,{'ping': 1}
+8814894441,265,2023-09-14T00:08:55.000Z,android,True,Dawn,MX,NCok0ban,11.9,142.44,87.55,-248.62,7d775bd9-b530-4b16-bcc0-7b21dea82948,"{'ping': 1, 'got_wax': 5, 'milestone_prestiges': 1}"
+8814885187,265,2023-09-14T00:08:52.000Z,android,True,Dawn,MX,NCok0ban,9.43,375.01,51.97,-13.8,7d775bd9-b530-4b16-bcc0-7b21dea82948,{'ping': 1}
+8814879529,265,2023-09-14T00:08:51.000Z,android,True,Dawn,MX,NCok0ban,9.85,410.37,60.65,-9.3,7d775bd9-b530-4b16-bcc0-7b21dea82948,{'ping': 1}
+8814877033,265,2023-09-14T00:08:50.000Z,android,True,Dawn,MX,NCok0ban,16.06,372.48,52.89,-11.34,7d775bd9-b530-4b16-bcc0-7b21dea82948,{'ping': 1}
+8814871050,265,2023-09-14T00:08:48.000Z,android,True,Dawn,MX,NCok0ban,19.87,214.4,4.76,-40.4,7d775bd9-b530-4b16-bcc0-7b21dea82948,"{'ping': 1, 'social_feed_impression': 1}"
+8814867313,265,2023-09-14T00:08:47.000Z,android,True,Dawn,MX,NCok0ban,22.23,282.15,2.44,188.87,7d775bd9-b530-4b16-bcc0-7b21dea82948,{'ping': 1}
+8814857350,265,2023-09-14T00:08:45.000Z,android,True,Dawn,MX,NCok0ban,22.93,414.88,95.06,-6.56,7d775bd9-b530-4b16-bcc0-7b21dea82948,{'social_feed_impression': 1}
+8814844916,265,2023-09-14T00:08:41.000Z,android,True,Dawn,MX,NCok0ban,22.32,414.58,94.71,-6.71,7d775bd9-b530-4b16-bcc0-7b21dea82948,{'ping': 1}
+8814838158,265,2023-09-14T00:08:38.000Z,android,True,Dawn,MX,NCok0ban,14.69,106.91,24.09,50.1,7d775bd9-b530-4b16-bcc0-7b21dea82948,{'ping': 1}
+8814829697,265,2023-09-14T00:08:36.000Z,android,True,Dawn,MX,NCok0ban,16.65,281.9,2.12,189.01,7d775bd9-b530-4b16-bcc0-7b21dea82948,{'ping': 1}
+8814817965,265,2023-09-14T00:08:33.000Z,android,True,Dawn,MX,NCok0ban,25.96,117.51,2.05,310.86,7d775bd9-b530-4b16-bcc0-7b21dea82948,{'ping': 1}
+8814816408,265,2023-09-14T00:08:32.000Z,android,True,Dawn,MX,NCok0ban,25.96,52.23,34.41,370.08,7d775bd9-b530-4b16-bcc0-7b21dea82948,{'social_feed_impression': 1}
+8814805679,265,2023-09-14T00:08:29.000Z,android,True,Dawn,MX,NCok0ban,22.77,52.24,34.13,370.06,7d775bd9-b530-4b16-bcc0-7b21dea82948,{'ping': 1}
+8814760239,265,2023-09-14T00:08:15.000Z,android,True,Dawn,MX,NCok0ban,23.18,235.97,12.53,8.07,7d775bd9-b530-4b16-bcc0-7b21dea82948,{'was_charged_by_player': 1}
+8814722680,265,2023-09-14T00:08:04.000Z,android,True,Dawn,MX,NCok0ban,19.98,236.27,12.56,8.24,7d775bd9-b530-4b16-bcc0-7b21dea82948,{'ping': 1}
+8814695328,265,2023-09-14T00:07:56.000Z,android,True,Dawn,MX,NCok0ban,23.57,236.26,12.54,8.25,7d775bd9-b530-4b16-bcc0-7b21dea82948,{'open_ability_menu': 1}
+8814690192,265,2023-09-14T00:07:54.000Z,android,True,Dawn,MX,NCok0ban,22.24,235.67,12.5,10.79,7d775bd9-b530-4b16-bcc0-7b21dea82948,"{'milestone_made_5_friends': 2, 'player_left': 2}"
+8814683360,265,2023-09-14T00:07:51.000Z,android,True,Dawn,MX,NCok0ban,21.23,234.1,12.54,13.39,7d775bd9-b530-4b16-bcc0-7b21dea82948,{'was_charged_by_player': 1}
+8814634044,265,2023-09-14T00:07:37.000Z,android,True,Dawn,MX,NCok0ban,18.78,234.87,12.47,13.91,7d775bd9-b530-4b16-bcc0-7b21dea82948,"{'was_charged_by_player': 1, 'hand_released': 1}"
+8814627456,265,2023-09-14T00:07:35.000Z,android,True,Dawn,MX,NCok0ban,22.81,234.86,12.46,14.02,7d775bd9-b530-4b16-bcc0-7b21dea82948,{'was_charged_by_player': 1}
+8814620799,265,2023-09-14T00:07:33.000Z,android,True,Dawn,MX,NCok0ban,21.49,234.89,12.19,15.02,7d775bd9-b530-4b16-bcc0-7b21dea82948,"{'ping': 2, 'player_left': 2, 'hand_held': 1, 'milestone_made_5_friends': 1}"
+8814612745,265,2023-09-14T00:07:31.000Z,android,True,Dawn,MX,NCok0ban,20.68,188.45,21.43,121.86,7d775bd9-b530-4b16-bcc0-7b21dea82948,{'ping': 1}
+8814603970,265,2023-09-14T00:07:28.000Z,android,True,Dawn,MX,NCok0ban,20.87,180.93,21.52,138.31,7d775bd9-b530-4b16-bcc0-7b21dea82948,"{'ping': 1, 'player_lift': 1}"
+8814596259,265,2023-09-14T00:07:26.000Z,android,True,Dawn,MX,NCok0ban,18.93,173.18,21.61,152.44,7d775bd9-b530-4b16-bcc0-7b21dea82948,{'player_lift': 1}
+8814592566,265,2023-09-14T00:07:25.000Z,android,True,Dawn,MX,NCok0ban,21.74,169.99,22.56,158.15,7d775bd9-b530-4b16-bcc0-7b21dea82948,{'ping': 1}
+8814589752,265,2023-09-14T00:07:24.000Z,android,True,Dawn,MX,NCok0ban,20.26,164.71,22.84,166.81,7d775bd9-b530-4b16-bcc0-7b21dea82948,"{'ping': 1, 'player_interaction': 1}"
+8814557092,265,2023-09-14T00:07:14.000Z,android,True,Dawn,MX,NCok0ban,4.42,161.57,20.38,176.05,7d775bd9-b530-4b16-bcc0-7b21dea82948,"{'ping': 1, 'loaded_Dawn': 1, 'level_loaded': 1}"
+8471030317,265,2023-09-13T03:54:02.000Z,android,True,Dawn,MX,I1oKiEWk,17.58,282.15,2.44,188.87,605ed477-e7d1-470d-a066-0b4a670b65d4,{'ping': 1}
+8471010862,265,2023-09-13T03:53:57.000Z,android,True,Dawn,MX,I1oKiEWk,23.0,55.55,1.71,198.05,605ed477-e7d1-470d-a066-0b4a670b65d4,{'ping': 1}
+8471007974,265,2023-09-13T03:53:56.000Z,android,True,Dawn,MX,I1oKiEWk,18.64,67.99,1.0,456.55,605ed477-e7d1-470d-a066-0b4a670b65d4,{'social_feed_impression': 1}
+8470984992,265,2023-09-13T03:53:53.000Z,android,True,Dawn,MX,I1oKiEWk,18.98,67.99,1.0,456.55,605ed477-e7d1-470d-a066-0b4a670b65d4,{'player_interaction': 5}
+8470957175,265,2023-09-13T03:53:48.000Z,android,True,Dawn,MX,I1oKiEWk,27.51,67.99,1.0,456.55,605ed477-e7d1-470d-a066-0b4a670b65d4,{'social_feed_impression': 1}
+8470945858,265,2023-09-13T03:53:46.000Z,android,True,Dawn,MX,I1oKiEWk,25.93,67.99,1.0,456.55,605ed477-e7d1-470d-a066-0b4a670b65d4,"{'player_interaction': 1, 'social_feed_impression': 1}"
+8470932926,265,2023-09-13T03:53:43.000Z,android,True,Dawn,MX,I1oKiEWk,5.08,67.98,1.02,456.55,605ed477-e7d1-470d-a066-0b4a670b65d4,"{'ping': 1, 'loaded_Dawn': 1, 'level_loaded': 1}"
