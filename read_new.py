@@ -2,7 +2,8 @@ import pandas as pd
 import json
 import collections
 import itertools
-import tqdm
+from tqdm import tqdm 
+
 # Create an empty DataFrame with the desired columns
 columns = [
     'user_id', 'time', 'platform', 'is_beginner', 'level', 'country_code',
@@ -30,12 +31,14 @@ df['time'] = pd.to_datetime(df['time'], format='%Y-%m-%d %H:%M:%S.%f')
 
 # Setup for streaming
 file_path = "dawnEventDataStream.txt"
-chunk_size = 2000 
-i=0
-threshold = 15
+chunk_size = 3000 
+i = 0
+threshold = 23
 
 # Open the file and read it in chunks
 with open(file_path, "r", encoding="utf-8") as file:
+    pbar = tqdm(total=3500000)  # Initialize tqdm progress bar
+
     while True:
         chunk = list(itertools.islice(file, chunk_size))
         if not chunk:
@@ -46,14 +49,16 @@ with open(file_path, "r", encoding="utf-8") as file:
         chunk_data = [json.loads(line) for line in chunk if line.strip()]
         chunk_data = chunk_data[1:]
         user_id_counts = collections.Counter(item["user_id"] for item in chunk_data)
+        if i==0:
+            print(user_id_counts)
         filtered_chunk = [item for item in chunk_data if user_id_counts[item["user_id"]] >= threshold or item["user_id"] in df["user_id"].values]
-        #filtered_chunk = [data for data in chunk_data if "candle_purchased" in data["oneSecondAggregatedEventCounts"]]
-        #filtered_chunk = chunk_data
+
         df_chunk = pd.DataFrame(filtered_chunk, columns=columns)
         df = pd.concat([df, df_chunk], ignore_index=True, join='inner')
-        # print(df) if a==0 else None
-        i+=1
+
+        i += 1
+        pbar.update(len(chunk))  # Update tqdm progress bar
 
 df.set_index("user_id", inplace=True)
 df.to_csv("dawnEventDataStream.csv")
-
+pbar.close()  # Close tqdm progress bar
