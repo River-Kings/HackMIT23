@@ -32,36 +32,36 @@ file_path = "dawnEventDataStream.txt"
 
 # Chunk size for reading and appending data
 chunk_size = 1000  # Adjust as needed
-specific_user_id = 32233  # Replace this with the specific user_id you're interested in
-a=1
+specific_user_id = 11  # Replace this with the specific user_id you're interested in
+a=5
+
+fruits = ["apple", "banana", "cherry"]
+x=0
+
+
 
 # Open the file and read it in chunks
 with open(file_path, "r", encoding="utf-8") as file:
-     while True:
-        chunk = list(itertools.islice(file, chunk_size))
+    while x < 5000 :
+        chunk = [next(file) for _ in range(chunk_size)]
+        x = x+1
+    chunk = [next(file) for _ in range(chunk_size)]
+
+    while a>0:
+        # Read a chunk of lines
+        chunk = [next(file) for _ in range(chunk_size)]
+
+        # If the chunk is empty, we've reached the end of the file
         if not chunk:
             break
 
         # Process the chunk of lines as JSON and append to the DataFrame
-        chunk_data = [json.loads(line) for line in chunk if line.strip() and json.loads(line)['user_id'] == specific_user_id]
+        chunk_data = [json.loads(line) for line in chunk if line.strip()]
         df_chunk = pd.DataFrame(chunk_data, columns=columns)
         df = pd.concat([df, df_chunk], ignore_index=True)
-
-    # while a==1:
-    #     # Read a chunk of lines
-    #     chunk = [next(file) for _ in range(chunk_size)]
-
-    #     # If the chunk is empty, we've reached the end of the file
-    #     if not chunk:
-    #         break
-
-    #     # Process the chunk of lines as JSON and append to the DataFrame
-    #     chunk_data = [json.loads(line) for line in chunk if line.strip() and json.loads(line)['user_id'] == specific_user_id]
-    #     df_chunk = pd.DataFrame(chunk_data, columns=columns)
-    #     df = pd.concat([df, df_chunk], ignore_index=True)
-        #a=0
+        a=a-1
 # Set the "id" column as the index
 df.set_index("id", inplace=True)
-df.to_csv("player" + str(specific_user_id) + "AllEvents.csv")
+df.to_csv("playerNewChunkSet1.csv")
 # Now, you have a pandas DataFrame with the data stored as specified, and it's memory-efficient for large files.
 # You can use this DataFrame for data analysis and manipulation.
